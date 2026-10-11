@@ -1,6 +1,6 @@
 # Faran, LLC apps
 
-Support and privacy pages for Faran, LLC's apps, served by GitHub Pages at https://freshdrops.github.io/faran-apps/.
+Support and privacy pages for Faran, LLC's apps, served by GitHub Pages at https://faran-io.github.io/faran-apps/.
 
 - `grudgewing/`: support page (the stores' Support URL).
 - `grudgewing/privacy/`: privacy policy, generated from `docs/PRIVACY.md` in the game's repo (freshdrops/wickdeep). Change it there first.
